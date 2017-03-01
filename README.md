@@ -28,4 +28,4 @@ Launcher3
 * [找个Launcher开发](http://www.fookwood.com/archives/1066)
 * [LauncherRootView和DragLayer的布局过程](http://www.fookwood.com/archives/1085)
 
-
+为了测试git的推送功能。

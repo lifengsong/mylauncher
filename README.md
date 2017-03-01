@@ -1,6 +1,8 @@
 Launcher3
 =========
-
+项目是基于他人的项目的测试更改[原项目](https://github.com/fookwood/Launcher3)i
+##一下皆为原项目应用
+flow...
 更改官方的Launcher3使得可以在Android Studio编译
 
 * [原始地址](https://android.googlesource.com/platform/packages/apps/Launcher3/)，从729ad90提交开始
@@ -27,5 +29,4 @@ Launcher3
 * [IconCache原理](http://www.fookwood.com/archives/1072)
 * [找个Launcher开发](http://www.fookwood.com/archives/1066)
 * [LauncherRootView和DragLayer的布局过程](http://www.fookwood.com/archives/1085)
-
-为了测试git的推送功能。
+...
